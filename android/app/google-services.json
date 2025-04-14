@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563064977021",
+    "project_id": "chatup3-38e1e",
+    "storage_bucket": "chatup3-38e1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563064977021:android:09879aa2a767282f612314",
+        "android_client_info": {
+          "package_name": "com.example.flash_chat_dubl_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIm2V5eH89qGm_07vjUHfFF2W3d9YAErU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
